@@ -1,3 +1,5 @@
+Warning this project was dropped at the very beggining of the development. 
+
 Porównywarka cen książek - aplikacja bazodanowa obsługująca skrypty do web scraping’u
 
 Technologia:
